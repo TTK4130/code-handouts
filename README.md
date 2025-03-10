@@ -11,7 +11,10 @@ There is one notebook for each relevant assignment:
   - Relevant assignment: https://ttk4130.github.io/assignments/assignment-5.html
 - Assignment 6, Hovering Mass, `assignment-6-hovering-mass.ipynb`
   - Relevant assignment: https://ttk4130.github.io/assignments/assignment-6.html
-- (more are work in progress)
+- Assignment 9, Car Simulation, `assignment-9-car.ipynb`
+  - Relevant assignment: https://ttk4130.github.io/assignments/assignment-9.html
+- Assignment 11, Numerical Integration, `coming-soon.ipynb`
+  - Relevant assignment: https://ttk4130.github.io/assignments/assignment-11.html
 
 ## How to run
 
