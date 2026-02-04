@@ -5,16 +5,14 @@ This is a companion repository to the assignments on the course website and hold
 
 There is one notebook for each relevant assignment:
 
-- Assignment 4, Satellite, `assignment-4-satellite.ipynb`
-  - Relevant assignment: https://ttk4130.github.io/assignments/assignment-4.html
-- Assignment 5, Ball and Beam, `assignment-5-ball-and-beam.ipynb`
+- Assignment 5, Satellite, `satellite.ipynb`
   - Relevant assignment: https://ttk4130.github.io/assignments/assignment-5.html
-- Assignment 6, Hovering Mass, `assignment-6-hovering-mass.ipynb`
+- Assignment 6, Ball and Beam, `ball-and-beam.ipynb`
   - Relevant assignment: https://ttk4130.github.io/assignments/assignment-6.html
-- Assignment 9, Car Simulation, `assignment-9-car.ipynb`
-  - Relevant assignment: https://ttk4130.github.io/assignments/assignment-9.html
-- Assignment 11, Numerical Integration, `coming-soon.ipynb`
-  - Relevant assignment: https://ttk4130.github.io/assignments/assignment-11.html
+- Assignment 7, Hovering Mass, `hovering-mass.ipynb`
+  - Relevant assignment: https://ttk4130.github.io/assignments/assignment-7.html
+- Assignment 8, Car Simulation, `car.ipynb`
+  - Relevant assignment: https://ttk4130.github.io/assignments/assignment-8.html
 
 ## How to run
 
