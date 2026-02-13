@@ -1,0 +1,18 @@
+[workspace]
+name = "ttk4130"
+version = "0.1.0"
+description = "TTK4130 Course Environment"
+channels = ["conda-forge"]
+platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
+
+[dependencies]
+python = "3.11.*"
+sympy = "*"
+scipy = "*"
+matplotlib = "*"
+ipython = "*"
+jupyter = "*"
+pythreejs = "*"
+
+[tasks]
+jupyter = "jupyter notebook"
