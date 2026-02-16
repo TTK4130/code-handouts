@@ -24,7 +24,7 @@ for more information and some tips.
 ## Dependencies
 
 The dependencies in this repositiory are defined in `pixi.toml`.
-In addition to the `toml`-file, we have included a script that tests the dependencies.
+In addition to the `toml`-file, we have included a script that tests the dependencies. You can either run it manually or run `pixi run test` in the base directory of this repository.
 The primary reason for having package managers and virtual environment managers like pixi is to specify and synchronize dependencies across contributors and time.
 In a sense, the dependency test script we have included is also a rudimentary way of achieving this.
 We have only included the script for pedagogical reasons, namely so you can check whether you've installed pixi correctly and so on.
