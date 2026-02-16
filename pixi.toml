@@ -16,3 +16,4 @@ pythreejs = "*"
 
 [tasks]
 jupyter = "jupyter notebook"
+test = "python3 test_dependencies.py"

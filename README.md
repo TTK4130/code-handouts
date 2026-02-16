@@ -11,8 +11,8 @@ There is one notebook for each relevant assignment:
   - Relevant assignment: https://ttk4130.github.io/assignments/assignment-6.html
 - Assignment 7, Hovering Mass, `hovering-mass.ipynb`
   - Relevant assignment: https://ttk4130.github.io/assignments/assignment-7.html
-- Assignment 8, Car Simulation, `car.ipynb`
-  - Relevant assignment: https://ttk4130.github.io/assignments/assignment-8.html
+- Assignment 9, Car Simulation, `car.ipynb`
+  - Relevant assignment: https://ttk4130.github.io/assignments/assignment-9.html
 
 ## How to run
 
@@ -20,3 +20,11 @@ Clone the repo, launch your favorite jupyter notebook server and run the noteboo
 See the [Python installation guide](https://ttk4130.github.io/installation.html)
 and the  [quick introduction to Jupyter Notebook](https://ttk4130.github.io/jupyter-notebook.html)
 for more information and some tips.
+
+## Dependencies
+
+The dependencies in this repositiory are defined in `pixi.toml`.
+In addition to the `toml`-file, we have included a script that tests the dependencies. You can either run it manually or run `pixi run test` in the base directory of this repository.
+The primary reason for having package managers and virtual environment managers like pixi is to specify and synchronize dependencies across contributors and time.
+In a sense, the dependency test script we have included is also a rudimentary way of achieving this.
+We have only included the script for pedagogical reasons, namely so you can check whether you've installed pixi correctly and so on.
